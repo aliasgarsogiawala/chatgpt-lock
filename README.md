@@ -58,6 +58,7 @@ chatgpt-password-locker/
 └── api/                        # (Optional) Vercel serverless backend
     └── lock/
         └── route.ts            # GET & POST endpoints for MongoDB chat locks
+```
 
 ---
 
