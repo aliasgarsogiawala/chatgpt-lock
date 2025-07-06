@@ -73,7 +73,7 @@ chatgpt-password-locker/
 
 ## 👥 Author
 
-Built by Tech Horizons Club  
+Built by Aliasgar Sogiawala  
 Open to collaboration and improvements 🚀
 
 ---
